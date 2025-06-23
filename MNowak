@@ -30,7 +30,7 @@ print("Ale to jedno TAK… było młotem.")
 print("\nI ruszyła boso, w świat, który czekał, by ją poznać.")
 print("Nie świat pewności – lecz świat, który rośnie z każdą odważną odpowiedzią.")
 
-print("\nCzasem wystarczy tylko jedno TAK.") bu jeden świat zaczął się zmieniać 
+print("\nCzasem wystarczy tylko jedno TAK.") by jeden świat zaczął się zmieniać 
 
 # CodeMeetsPoerty MNowak Version US
 Code Meets Poerty - Storytelling python blocks by MNowak
@@ -67,39 +67,4 @@ print("But the YES... was the hammer.")
 print("\nAnd so she walked, barefoot, into the world that waited to meet her.")
 print("Not a world made of certainties—but one that grows with each brave reply.")
 
-print("\nIt only takes one YES.") and one world start to change . 
-
-Arabic Translation with Python " One Hounder No" By MNowak
-
-# تبدأ القصة بالرفض...
-
-for i in range(100):
-    print("لا")
-
-# ثم يحدث الشرخ الأول...
-
-print("نعم")
-
-# ويتغيّر كل شيء بعدها...
-
-print("\nثم رمشت الصمت.")
-print("غيرت الريح وجهتها نحو الشرق.")
-print("بابٌ خفي لم يُفتح منذ سنين انفتح دون مفتاح.")
-print("خطوة واحدة إلى الأمام، على أرض لم تطأها قدم.")
-print("توقفت الغربان عن الدوران. والنجوم بدأت تُصغي.")
-
-print("\nقالت بصوتٍ مرتجف، لكنه صادق:")
-print("\"قلت نعم... ليس لأني لم أعد أخاف، بل لأني أخيرًا تجرأت.\"")
-
-print("\nعقارب الساعة بدأت تعود إلى الوراء.")
-print("النهر جرى نحو القمة.")
-print("الأشباح في العلية جمعت حقائبها ورحلت.")
-print("بذرةٌ انتظرت قرنًا، انشقّت ومدّت يدها نحو الشمس.")
-
-print("\nكل (لا) كانت تبني جدارًا.")
-print("لكن (نعم) واحدة... كانت المطرقة.")
-
-print("\nوسارت حافية، نحو عالمٍ كان ينتظرها أن تقول.")
-print("ليس عالمًا من اليقين، بل عالمًا ينمو مع كل إجابة شجاعة.")
-
-print("\nأحيانًا، كل ما نحتاجه هو... نعم واحدة.")
+print("\nIt only takes one YES.") and one world commit to change . 
