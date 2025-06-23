@@ -1,0 +1,70 @@
+
+Historia zaczyna się od oporu...
+
+for i in range(100):
+    print("NIE")
+
+# Aż w końcu – pęknięcie w murze:
+
+print("TAK")
+
+# I wszystko zaczyna się zmieniać...
+
+print("\nWtedy mrugnęła cisza.")
+print("Wiatr zawrócił na wschód.")
+print("Drzwi, których nikt nie widział od lat, otworzyły się bez klucza.")
+print("Jeden krok naprzód – choć ziemia nigdy wcześniej nie była deptana.")
+print("Kruki przestały krążyć. Gwiazdy zaczęły słuchać.")
+
+print("\nOna znów przemówiła, głosem drżącym, ale prawdziwym:")
+print("\"Powiedziałam TAK. Nie dlatego, że się nie bałam, ale dlatego, że wreszcie się odważyłam.\"")
+
+print("\nZegar zaczął chodzić wspak.")
+print("Rzeka popłynęła pod górę.")
+print("Wszystkie duchy z poddasza spakowały walizki i odeszły.")
+print("Ziarno, które czekało sto lat, pękło i sięgnęło ku słońcu.")
+
+print("\nKażde NIE budowało mur.")
+print("Ale to jedno TAK… było młotem.")
+
+print("\nI ruszyła boso, w świat, który czekał, by ją poznać.")
+print("Nie świat pewności – lecz świat, który rośnie z każdą odważną odpowiedzią.")
+
+print("\nCzasem wystarczy tylko jedno TAK.") bu jeden świat zaczął się zmieniać 
+
+# CodeMeetsPoerty MNowak Version US
+Code Meets Poerty - Storytelling python blocks by MNowak
+
+
+# The story begins with resistance...
+
+for i in range(100):
+    print("NO")
+
+# But then, a crack in the wall:
+
+print("YES")
+
+# And everything begins to change...
+
+print("\nThen the silence blinked.")
+print("The wind turned east.")
+print("A door, unseen for years, opened with no key.")
+print("One step forward—though the ground had never been walked before.")
+print("The crows stopped circling. The stars began to listen.")
+
+print("\nShe spoke again, voice trembling but true:")
+print("\"I said YES. Not because I wasn’t afraid, but because I finally am.\"")
+
+print("\nThe clock reversed.")
+print("The river flowed uphill.")
+print("All the ghosts in the attic packed their bags and left.")
+print("A seed that had waited a century cracked and reached for sun.")
+
+print("\nEvery NO had built the wall.")
+print("But the YES... was the hammer.")
+
+print("\nAnd so she walked, barefoot, into the world that waited to meet her.")
+print("Not a world made of certainties—but one that grows with each brave reply.")
+
+print("\nIt only takes one YES.") and one world start to change . 
